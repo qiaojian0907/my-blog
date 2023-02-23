@@ -20,7 +20,7 @@ tags:
 
     <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223230820275.png" alt="image-20230223230820275" style="zoom: 33%;" />
 
-### 3 优化Github说明，务必认真阅读！！！
+### 3 有关Github说明，务必认真阅读！！！
 
 * 因为github认证有小概率会引起账号suspended无法访问，建议不要使用自己的github主号，而是用非主号或者新注册一个.
 * 全网都存在这个情况，如果你去其他地方认证，他们不提醒你的话，基本是个不负责任的商家.
@@ -102,7 +102,8 @@ tags:
 
     ![image-20230223233517961](https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223233517961.png)
 
-
+### 7 各项权益提取
+*   博客教程：https://xiaoma.cool/2022/10/26/Pro%E7%BB%91%E5%AE%9AJetbrains%E3%80%81Copilot%E3%80%81Termius/
 
 
 
