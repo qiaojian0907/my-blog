@@ -106,3 +106,38 @@ deploy:
   repo: git@github.com:qiaojian0907/hexo-blog.git
   branch: master
   message: my hexo-blog
+
+favicon:
+  /image/favicon.jpg
+custom_js:
+  - /js/click.js
+  - /js/yinghua.js
+
+
+# 关于页面
+about:
+  avatar: /image/person.jpg
+  name: "乔帮主"
+  intro: "白云苍狗  弹指过往  苍茫尽处  岁月蹉跎"
+  icons:
+    - { class: 'iconfont icon-wechat-fill', qrcode: '/image/wechat.png' }
+
+# 友链
+#navbar:
+#  menu:
+#    - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
+
+banner_img:
+  /image/bg/baishe.png
+
+navbar:
+  blog_title: 乔帮主
+
+index:
+  # 首页slogan
+  slogan:
+    enable: true
+    text: 人性的背后是白云苍狗
+  # 摘要
+  auto_excerpt:
+    enable: true
