@@ -127,8 +127,7 @@ about:
 #  menu:
 #    - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
 
-banner_img:
-  /image/bg/baishe.png
+banner_img: /image/bg/img.png
 
 navbar:
   blog_title: 乔帮主

@@ -1,11 +1,10 @@
 ---
 title: GitHub学生包自助认证方法
+excerpt: Github学生包是对你的Github账号进行教育认证，认证完成之后，即可享受包括但不限于下图中的近百种权益。
 date: 2023-02-23 23:38:25
-tags:
+tags: [github]
 categories: "github"
 ---
-Github学生包是对你的Github账号进行教育认证，认证完成之后，即可享受包括但不限于下图中的近百种权益。
-<!-- more -->
 
 ## Github学生包自助认证方法
 
@@ -19,7 +18,6 @@ Github学生包是对你的Github账号进行教育认证，认证完成之后�
 ​	https://githubedu.com
 
 ### 2 什么是学生包
-
 * Github学生包是对你的Github账号进行教育认证，认证完成之后，即可享受包括但不限于下图中的近百种权益。
 
 * 可前往官网直接查看所有权益：https://education.github.com/pack#offers
