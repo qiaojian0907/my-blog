@@ -8,6 +8,9 @@ tags:
 
 <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223230413049.png" alt="image-20230223230413049" style="zoom: 25%;" />
 
+### 联系方式
+  微信：qiaojian0907
+
 ### 1 自助认证
 
 ​	https://githubedu.com
@@ -96,9 +99,9 @@ tags:
 
 *  认证时使用的GitHub账号邮箱、用户名
 
-* https://github.com/settings/billing和https://education.github.com/网站的认证截图(截图需清晰完整，包含网页全部内容，如下图，否则不予与售后)
+*  [https://github.com/settings/billing](https://github.com/settings/billing)和[https://education.github.com/](https://education.github.com/)网站的认证截图(截图需清晰完整，包含网页全部内容，如下图，否则不予与售后)
 
-* GitHub教育发送要求重新进行学术认证的邮件截图，并将该邮件转发至邮箱(邮件主题填写:github售后) : qiaojian0907@163.com
+*  GitHub教育发送要求重新进行学术认证的邮件截图，并将该邮件转发至邮箱(邮件主题填写:github售后) : qiaojian0907@163.com
 
     ![image-20230223233517961](https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223233517961.png)
 
