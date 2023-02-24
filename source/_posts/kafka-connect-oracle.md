@@ -1,7 +1,8 @@
 ---
 title: kafka-connect-oracle
 date: 2022-07-28 17:15:05
-tags:
+tags: [oracle]
+categories: "数据库"
 ---
 
 ## 1.基础环境配置 ##
