@@ -13,9 +13,12 @@ categories: "github"
 ### 联系方式
   微信：qiaojian0907
 
-### 1 自助认证
+### 1 自助认证地址
 
-​	https://githubedu.com
+* 自助认证地址1：[https://githubedu.com](https://githubedu.com)
+
+* 自助认证地址2：[https://githubedu.cn](https://githubedu.cn/)
+* 有问题联系：微信 qiaojian0907
 
 ### 2 什么是学生包
 * Github学生包是对你的Github账号进行教育认证，认证完成之后，即可享受包括但不限于下图中的近百种权益。
@@ -29,11 +32,7 @@ categories: "github"
 * 因为github认证有小概率会引起账号suspended无法访问，建议不要使用自己的github主号，而是用非主号或者新注册一个.
 * 全网都存在这个情况，如果你去其他地方认证，他们不提醒你的话，基本是个不负责任的商家.
 
-* **出于学生认证及账号稳定性考虑，推荐使用QQ邮箱，其他邮箱尽量避免使用，如避免使用Outlook、hotmail的 GitHub 账号进行认证学生包.**
-* **如果是新注册的Github账号，请保持1-3天的账号活跃行为 (收藏、分支仓库、个人资料等).**
-* **请务必先补全个人资料(必须项，并且需要补全) Star+Fork 5个仓库及以上再进行学生认证.**
-* **切记!!! 新注册的账号没有活跃行为前不要进行学生认证!!**
-* **如果有多个GitHub学生包账号，尽量不要使用同一个IP及浏览器(可使用无痕模式)登录，容易被判断为同人账号.**
+* **请务必先补全个人资,Star+Fork 5个仓库及以上再进行学生认证.**
 * **尽量用电脑认证，首先请确保自己的账号没有开启两步验证.**
 * **如果你的GitHub中添加有自定义域名邮箱或者教育邮箱，请确保还添加有常见邮箱 (qq.com,gmail.com，163.com 等等) 再提交认证。**
 
@@ -45,12 +44,24 @@ categories: "github"
 
 ​	<img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223231459383.png" alt="image-20230223231459383" style="zoom: 33%;" />
 
-#### 4.2 输入账号密码学校
+#### 4.2 输入账号密码/session和学校
+##### 4.2.1 账号密码登录
 
 * 输入您的GitHub账号密码并根据喜好选择一个大学，点击Launch 开始认证。
+
 * 下方会显示认证进度条，请耐心等待大约2-5分钟**【期间不要刷新网页，如果是用手机认证，请不要将浏览器切换到后台】**
 
-​	<img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223231826994.png" alt="image-20230223231826994" style="zoom: 25%;" />
+    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223231826994.png" alt="image-20230223231826994" style="zoom: 25%;" />
+
+##### 4.2.2 user_session登录
+
+* 不想输入密码的朋友，可以在浏览器登录 github 之后，按照下图查看user session的值，复制出来粘贴到我们登录的地址
+
+* 根据喜好选择一个大学，点击Launch 开始认证。
+
+    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230225220906932.png" alt="image-20230225220906932" style="zoom: 25%;" />
+
+​	
 
 #### 4.3 输入验证码
 
@@ -107,7 +118,7 @@ categories: "github"
     ![image-20230223233517961](https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223233517961.png)
 
 ### 7 各项权益提取
-*   博客教程：https://xiaoma.cool/2022/10/26/Pro%E7%BB%91%E5%AE%9AJetbrains%E3%80%81Copilot%E3%80%81Termius/
+*   博客教程：[https://xiaoma.cool/2022/10/26/GitHub%E5%AD%A6%E7%94%9F%E5%8C%85%E7%99%BD%E5%AB%96Jetbrains%E5%85%A8%E5%AE%B6%E6%A1%B6%E7%AD%89%E6%9D%83%E7%9B%8A/#7-GitHub-Pro%E6%9D%83%E7%9B%8A%E8%8E%B7%E5%8F%96](https://xiaoma.cool/2022/10/26/GitHub%E5%AD%A6%E7%94%9F%E5%8C%85%E7%99%BD%E5%AB%96Jetbrains%E5%85%A8%E5%AE%B6%E6%A1%B6%E7%AD%89%E6%9D%83%E7%9B%8A/#7-GitHub-Pro%E6%9D%83%E7%9B%8A%E8%8E%B7%E5%8F%96)
 
 
 
