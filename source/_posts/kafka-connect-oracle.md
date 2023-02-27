@@ -1,6 +1,8 @@
 ---
 title: kafka-connect-oracle
 date: 2022-07-28 17:15:05
+index_img: /image/oracle/img.png
+banner_img: /image/oracle/img.png
 tags: [oracle]
 categories: "数据库"
 ---
