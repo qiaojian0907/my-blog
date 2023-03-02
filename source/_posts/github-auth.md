@@ -12,15 +12,29 @@ categories: "github"
 
 <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223230413049.png" alt="image-20230223230413049" style="zoom: 25%;" />
 
-### 联系方式
-  微信：qiaojian0907
+
 
 ### 1 自助认证地址
 
 * 自助认证地址1：[https://githubedu.com](https://githubedu.com)
 
 * 自助认证地址2：[https://githubedu.cn](https://githubedu.cn/)
-* 有问题联系：微信 qiaojian0907
+
+* 有问题联系：
+
+    微信 qiaojian0907 
+
+    邮箱 qiaojian0907@163.com
+
+### 下单方式
+
+* 宝贝连接：[https://item.taobao.com/item.htm?ft=t&id=704373274082](https://item.taobao.com/item.htm?ft=t&id=704373274082)
+
+* 淘宝搜索店铺：大乔网络工作室
+
+* 手机淘宝扫描图片：
+
+    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230302113728750.png" alt="image-20230302113728750" style="zoom:25%;" />
 
 ### 2 什么是学生包
 * Github学生包是对你的Github账号进行教育认证，认证完成之后，即可享受包括但不限于下图中的近百种权益。
@@ -97,7 +111,7 @@ categories: "github"
 
 ### 5 常见错误说明
 
-<img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223232426573.png" alt="image-20230223232426573" style="zoom: 50%;" />
+<img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230302114020659.png" alt="image-20230302114020659" style="zoom: 50%;" />
 
 
 
@@ -109,15 +123,22 @@ categories: "github"
 
 #### 6.1 反馈格式
 
-*  授权KEY
+* 主体：GitHub售后
+* 授权KEY
 
-*  认证时使用的GitHub账号邮箱、用户名
+*  认证时使用的GitHub账号邮箱
 
-*  [https://github.com/settings/billing](https://github.com/settings/billing)和[https://education.github.com/](https://education.github.com/)网站的认证截图(截图需清晰完整，包含网页全部内容，如下图，否则不予与售后)
+*  GitHub Profile截图
 
-*  GitHub教育发送要求重新进行学术认证的邮件截图，并将该邮件转发至邮箱(邮件主题填写:github售后) : qiaojian0907@163.com
+*  GitHub 教育发送【要求重新进行学术认证/认证失败】的邮件截图
 
-    ![image-20230223233517961](https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223233517961.png)
+**将邮件发送至邮箱：qiaojian0907@163.com,核验通过后会补发授权码。**
+
+**注意: 内容、截图 (邮件中需要出现收件时间)需清晰完整，包含网页全部内容.如下图，任一条件不满足，不予与售后)**
+
+<img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/1677727135638.jpg" alt="1677727135638" style="zoom:33%;" />
+
+
 
 ### 7 各项权益提取
 *   博客教程：[https://xiaoma.cool/2022/10/26/GitHub%E5%AD%A6%E7%94%9F%E5%8C%85%E7%99%BD%E5%AB%96Jetbrains%E5%85%A8%E5%AE%B6%E6%A1%B6%E7%AD%89%E6%9D%83%E7%9B%8A/#7-GitHub-Pro%E6%9D%83%E7%9B%8A%E8%8E%B7%E5%8F%96](https://xiaoma.cool/2022/10/26/GitHub%E5%AD%A6%E7%94%9F%E5%8C%85%E7%99%BD%E5%AB%96Jetbrains%E5%85%A8%E5%AE%B6%E6%A1%B6%E7%AD%89%E6%9D%83%E7%9B%8A/#7-GitHub-Pro%E6%9D%83%E7%9B%8A%E8%8E%B7%E5%8F%96)
