@@ -1,5 +1,6 @@
 ---
 title: kafka-connect-oracle
+excerpt: kafka-connect-oracle使用教程。
 date: 2022-07-28 17:15:05
 index_img: /image/oracle/img.png
 banner_img: /image/oracle/img.png
