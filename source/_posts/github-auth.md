@@ -28,8 +28,6 @@ categories: "github"
 
 ### 下单方式
 
-* 宝贝连接：[https://item.taobao.com/item.htm?ft=t&id=704373274082](https://item.taobao.com/item.htm?ft=t&id=704373274082)
-
 * 淘宝搜索店铺：大乔网络工作室
 
 * 手机淘宝扫描图片：
