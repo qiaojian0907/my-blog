@@ -91,19 +91,17 @@ categories: "github"
 
 #### 4.5 检查是否成功
 
-**有三种方式可以查看学生包是否认证成功。**
+* 有两个种方式可以查看学生包是否认证成功。
 
-* https://github.com/
+    出现下面两个个图中任意框中的内容，表示认证成功。
+    如果页面提示了认证成功，但是10分钟之内，这两个个图中仍然没有对应标志的话，请查看邮箱中是否有邮件说明认证失败。
 
-​	<img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223232207835.png" alt="image-20230223232207835" style="zoom:25%;" />
+    如果有认证失败的邮件，说明此 GitHub 账号存在风控风险，请更换 GitHub 账号进行认证。
+    这种情况下出现授权码已被成功使用的话，看第6步骤进行售后补发授权码。
 
-* https://github.com/settings/billing
+    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230310103259896.png" alt="image-20230310103259896" style="zoom: 25%;" />
 
-​	<img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223232248344.png" alt="image-20230223232248344" style="zoom:25%;" />
-
-* https://education.github.com/
-
-​	<img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230223232320295.png" alt="image-20230223232320295" style="zoom:25%;" />
+    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230310103320479.png" alt="image-20230310103320479" style="zoom:25%;" />
 
 
 
@@ -119,12 +117,12 @@ categories: "github"
 * 此售后只针对认证的 GitHub 学生包有效，如果是学生包认证成功了，提取了其中的Jetbrains权益，但是Jetbrains 失效了，而学生包还在的话，不支持售后，因为这个东西和学生包没关系，是Jetbrains(或其他权益)官方的风控方案.
 * 售后只针对 GitHub 学生包，不对其中的相关权益进行售后.
 
-#### 6.1 反馈格式
+#### 6.1 自助认证页面成功但是邮件显示失败
 
-* 主体：GitHub售后
-* 授权KEY
+* 主题：GitHub售后
+* 授权KEY：
 
-*  认证时使用的GitHub账号邮箱
+*  认证时使用的GitHub账号邮箱/session
 
 *  GitHub Profile截图
 
@@ -135,6 +133,24 @@ categories: "github"
 **注意: 内容、截图 (邮件中需要出现收件时间)需清晰完整，包含网页全部内容.如下图，任一条件不满足，不予与售后)**
 
 <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/1677727135638.jpg" alt="1677727135638" style="zoom:33%;" />
+
+#### 6.2 账号Suspended
+
+* 主题：GitHub售后
+
+* 授权KEY：
+
+* 认证时使用的GitHub账号邮箱、**密码**。
+
+* GitHub 登录显示Suspended截图。
+
+* GitHub 之前发送的认证成功的截图。
+
+    **将邮件发送至邮箱：qiaojian0907@163.com,核验通过后会补发授权码。**
+
+    **注意: 内容、截图 (邮件中需要出现收件时间)需清晰完整，包含网页全部内容.如下图，任一条件不满足，不予与售后)**
+
+    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230310103754753.png" alt="image-20230310103754753" style="zoom:33%;" />
 
 
 
