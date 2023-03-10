@@ -34,7 +34,7 @@ categories: "github"
 
 * 手机淘宝扫描图片：
 
-    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230302113728750.png" alt="image-20230302113728750" style="zoom:25%;" />
+    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230310100838064.png" alt="image-20230310100838064" style="zoom:25%;" />
 
 ### 2 什么是学生包
 * Github学生包是对你的Github账号进行教育认证，认证完成之后，即可享受包括但不限于下图中的近百种权益。
