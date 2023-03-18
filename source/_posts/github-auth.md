@@ -43,12 +43,15 @@ categories: "github"
 
 ### 3 有关Github说明，务必认真阅读！！！
 
-* 因为github认证有小概率会引起账号suspended无法访问，建议不要使用自己的github主号，而是用非主号或者新注册一个.
+* 因为github认证有小概率会引起账号suspended无法访问，**建议不要使用自己的github主号**，而是用非主号或者新注册一个.
 * 全网都存在这个情况，如果你去其他地方认证，他们不提醒你的话，基本是个不负责任的商家.
 
-* **请务必先补全个人资,Star+Fork 5个仓库及以上再进行学生认证.**
-* **尽量用电脑认证，首先请确保自己的账号没有开启两步验证.**
-* **如果你的GitHub中添加有自定义域名邮箱或者教育邮箱，请确保还添加有常见邮箱 (qq.com,gmail.com，163.com 等等) 再提交认证。**
+* **5天内注册的信号通过率0%， 请放置5天后再认证**
+* **推荐使用没有主要资料的老号认证。**
+* **如果你的GitHub中添加有自定义域名邮箱/教育邮箱，请确保还添加有常见邮箱 (qq.com,gmail.com，163.com 等等) 再提交认证。**
+* **杜绝使用outlook、hotmail、msn邮箱。**
+* **(Github绑定的邮箱查看/新增/更改地址：https://github.com/settings/emails)**
+* **尽量用电脑认证，请确保自己的账号没有开启两步验证！**
 
 ### 4 详细使用步骤
 
@@ -94,20 +97,26 @@ categories: "github"
 * 有两个种方式可以查看学生包是否认证成功。
 
     出现下面两个个图中任意框中的内容，表示认证成功。
-    如果页面提示了认证成功，但是10分钟之内，这两个个图中仍然没有对应标志的话，请查看邮箱中是否有邮件说明认证失败。
+    如果页面提示了认证成功，但是10分钟之内，这两个个图中仍然没有对应标志的话，请查看邮箱中是否有邮件说明认证失败/请求正在处理中。
 
     如果有认证失败的邮件，说明此 GitHub 账号存在风控风险，请更换 GitHub 账号进行认证。
-    这种情况下出现授权码已被成功使用的话，看第6步骤进行售后补发授权码。
+    **【认证失败/请求正在处理中】情况下出现授权码已被成功使用的话，看第8步骤进行售后补发授权码。**
+
+    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230318103344466.png" alt="image-20230318103344466" style="zoom: 67%;" />
 
     <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230310103259896.png" alt="image-20230310103259896" style="zoom: 25%;" />
-
+    
     <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230310103320479.png" alt="image-20230310103320479" style="zoom:25%;" />
+
+​	
+
+​	
 
 
 
 ### 5 常见错误说明
 
-<img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230302114020659.png" alt="image-20230302114020659" style="zoom: 50%;" />
+![image-20230318103554529](https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230318103554529.png)
 
 
 
