@@ -46,7 +46,8 @@ categories: "github"
 * 因为github认证有小概率会引起账号suspended无法访问，**建议不要使用自己的github主号**，而是用非主号或者新注册一个.
 * 全网都存在这个情况，如果你去其他地方认证，他们不提醒你的话，基本是个不负责任的商家.
 
-* **5天内注册的信号通过率0%， 请放置5天后再认证**
+* **3天内注册的新号通过率0%， 请放置3天后再认证**
+* **务必补全个人资料再提交认证（Name、Bio两个必须要填写，示例值见下面）**
 * **推荐使用没有主要资料的老号认证。**
 * **如果你的GitHub中添加有自定义域名邮箱/教育邮箱，请确保还添加有常见邮箱 (qq.com,gmail.com，163.com 等等) 再提交认证。**
 * **杜绝使用outlook、hotmail、msn邮箱。**
@@ -94,19 +95,18 @@ categories: "github"
 
 #### 4.5 检查是否成功
 
-* 有两个种方式可以查看学生包是否认证成功。
+有两个种方式可以查看学生包是否认证成功，出现下面两个个图中任意框中的内容，表示认证成功。
 
-    出现下面两个个图中任意框中的内容，表示认证成功。
-    如果页面提示了认证成功，但是10分钟之内，这两个个图中仍然没有对应标志的话，请查看邮箱中是否有邮件说明认证失败/请求正在处理中。
+如果页面提示了认证成功，但是10分钟之内，这两个个图中仍然没有对应标志的话，请查看邮箱中是否有邮件说明**认证失败/请求正在处理中**。
 
-    如果有认证失败的邮件，说明此 GitHub 账号存在风控风险，请更换 GitHub 账号进行认证。
-    **【认证失败/请求正在处理中】情况下出现授权码已被成功使用的话，看第8步骤进行售后补发授权码。**
+* 如果收到认证失败邮件**【Unfortunately, we were unable to verify your academic affiliation.../不幸的是，我们无法根据您于*年*月*日提交的信息来验证您的学术隶属关系】**，说明此GitHub账号存在风控风险，请更换GitHub账号重新进行认证。
+* 如果收到认证进行中邮件**【Thank you for subrnitting your application for GitHub Education benefits. We have receivedyour application, and you should receive an email from us by Apr 1./感谢您提交GitHub教育福利的申请。我们已收到您的申请，您将在*月*日前收到我们的电子邮件】**。这个是机器审核未通过，走了人工审核流程，一般是新账号会出现，可以等待几天，大多数会在1-3天内给反馈。或者请更换一个GitHub账号重新进行认证。
 
-    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230318103344466.png" alt="image-20230318103344466" style="zoom: 67%;" />
+**【认证失败/请求正在处理中】情况下出现授权码已被成功使用的话，看第6步骤进行售后补发授权码。**
 
-    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230310103259896.png" alt="image-20230310103259896" style="zoom: 25%;" />
-    
-    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230310103320479.png" alt="image-20230310103320479" style="zoom:25%;" />
+<img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230310103259896.png" alt="image-20230310103259896" style="zoom: 25%;" />
+
+<img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230310103320479.png" alt="image-20230310103320479" style="zoom:25%;" />
 
 ​	
 
@@ -116,9 +116,21 @@ categories: "github"
 
 ### 5 常见错误说明
 
-![image-20230318103554529](https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230318103554529.png)
+1：根据页面弹窗提示进行操作。
 
+2：如果遇到非汉字提示(即Network Error、Request  failed、500等错误)，请刷新页面重试，如果持续传这个错误，联系我。
 
+**3：提示补全个人资料，请务必填写Name和Bio的值，下面只是示例值，注意填成你自己的**
+
+<img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230321141931527.png" alt="image-20230321141931527" style="zoom: 33%;" />
+
+- **Name**：要求使用自己名字的拼音或者英文例如：Lueilwitz Group
+
+- **Bio**：一个简短的自我介绍，例如：I am Beverley Beer ,from College of Informatics and Computer Management PGRI Tangerang (Sekolah Tinggi Manajemen Informatika dan Komputer PGRI Tangerang) (STMIK PGRI TANGERANG) .I love learning and open source.I hope I can make my own contribution to github one day.
+
+- **Company**：公司名(随便填填)，例如：Zenaida Orn Company
+
+- **Location**：地址(随便填填)，例如：0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji
 
 ### 6 售后流程
 
