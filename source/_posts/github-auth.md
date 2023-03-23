@@ -185,7 +185,7 @@ categories: "github"
 
 * GitHub教育发送【要求重新进行学术认证】的邮件截图。**(邮件截图中需要包含发件人、收件时间和收件人，否则不予以售后)**
 
-    <img src="C:/Users/qiaoj/AppData/Roaming/Typora/typora-user-images/image-20230323145352345.png" alt="image-20230323145352345" style="zoom:33%;" />
+    <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230323145805717.png" alt="image-20230323145805717" style="zoom:33%;" />
 
 ### 7 各项权益提取
 *   博客教程：[https://xiaoma.cool/2022/10/26/GitHub%E5%AD%A6%E7%94%9F%E5%8C%85%E7%99%BD%E5%AB%96Jetbrains%E5%85%A8%E5%AE%B6%E6%A1%B6%E7%AD%89%E6%9D%83%E7%9B%8A/#7-GitHub-Pro%E6%9D%83%E7%9B%8A%E8%8E%B7%E5%8F%96](https://xiaoma.cool/2022/10/26/GitHub%E5%AD%A6%E7%94%9F%E5%8C%85%E7%99%BD%E5%AB%96Jetbrains%E5%85%A8%E5%AE%B6%E6%A1%B6%E7%AD%89%E6%9D%83%E7%9B%8A/#7-GitHub-Pro%E6%9D%83%E7%9B%8A%E8%8E%B7%E5%8F%96)
