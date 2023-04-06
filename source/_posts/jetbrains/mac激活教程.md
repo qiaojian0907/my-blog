@@ -24,7 +24,7 @@ categories: "Jetbrains"
 
 ## 第四步 依次执行下方命令
 
-chmod +x max.sh (回车)
+chmod +x mac.sh (回车)
 
 ./mac.sh (回车)
 
