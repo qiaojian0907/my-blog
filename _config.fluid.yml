@@ -151,7 +151,7 @@ links:
 
 index:
   # 背景图
-  banner_img: /image/bg/img.png
+  banner_img: /image/bg/img_1.png
   banner_img_height: 100
   banner_mask_alpha: 0.3
   # 首页slogan
