@@ -2,8 +2,8 @@
 title: mac出现“Key is invalid”解决方法
 excerpt: Jetbrains全家桶-mac出现“Key is invalid”解决方法。
 date: 2023-04-01 00:00:00
-index_img: image/Jetbrains/mac.png
-banner_img: image/Jetbrains/mac.png
+index_img: image/Jetbrains/mac1.png
+banner_img: image/Jetbrains/mac1.png
 tags: [Jetbrains]
 categories: "Jetbrains"
 ---
