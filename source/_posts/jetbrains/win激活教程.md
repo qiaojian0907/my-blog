@@ -14,7 +14,7 @@ categories: "Jetbrains"
 
 ## 2017-2019版本
 
-### 第一步 运行Win2017-2020文件夹内的 Win.vbs
+### 第一步 运行Win2017-2019文件夹内的 Win.vbs
 
 <img src="https://typora-qiao-1309453114.cos.ap-shanghai.myqcloud.com/hex-info/image-20230403112445024.png" alt="image-20230403112445024" style="zoom:33%;" />
 
@@ -44,7 +44,7 @@ categories: "Jetbrains"
 
 上述第二步-第四步。
 
-## 2020-2022版本
+## 2020-2023版本
 
 ### 第一步 解压win.zip，然后运行win文件夹内 Win.bat
 
