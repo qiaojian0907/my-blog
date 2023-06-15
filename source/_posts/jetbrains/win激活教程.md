@@ -44,7 +44,7 @@ categories: "Jetbrains"
 
 上述第二步-第四步。
 
-## 2020-2023版本
+## 2020 - 2023 版本
 
 ### 第一步 解压win.zip，然后运行win文件夹内 Win.bat
 
